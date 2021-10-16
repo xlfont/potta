@@ -1,0 +1,12 @@
+- name: potta
+  displayname: ポッタ
+  category: display
+  subsets:
+   - cjk
+   - latin
+  style:
+    normal:
+      - filename: dist/Potta-Regular
+        codes: 7286
+        weight: 400
+        xfl: true
